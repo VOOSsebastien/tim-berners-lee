@@ -1,21 +1,47 @@
-
+img{
+    margin-top:15px;
+}
+.bernie{
+    border-radius: 50%;
+    border:5px solid grey;
+}
 .section_img
 {
     float: left;
     margin: 20px; 
 }
+html{
+    background: rgb(219, 216, 216);
+    
+}
 .texte{
-    margin-top:110px;
+    /*margin-top:110px;*/
 }
 
 div{
-    float:left;
+    clear: both;
 
 }
 
+.seeyourself{
+    text-align: center;
+    margin-top: 40px;
+    color: white;
+    background-color: red;
+    padding:8px;
+    border-radius: 5%;
+}
+h1{
+    color:red;
+}
 section
 {
-    clear: both;
+    
+    background-color: white;
+    text-align: center;
+    margin: 100px 350px;
+    border-radius: 2%;
+    padding:25px;
 }
 
 
